@@ -24,9 +24,9 @@
       <p class="text-lg text-lime-500 mt-4">
         We provide expert bookkeeping services for small businesses, startups, and individuals.
       </p>
-      <div class="flex justify-center items-center">
-        <img src="/dist/assets/GA_LOGO-Dyn4m8C1.png" alt="logo" class="w-1/4" />
-      </div>
+      <!-- <div class="flex justify-center items-center">
+        <img src="/dist/assets/GA_LOGO.png" alt="logo" class="w-1/4" />
+      </div> -->
       <button
         @click="contactUs"
         class="bg-lime-500 text-white px-6 py-3 mt-6 rounded-lg hover:bg-lime-600 transition"
